@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pragna3101....
+-<b> 👋 Hi, I’m @pragna3101....</b>
 
 <!---
 pragna3101/pragna3101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
